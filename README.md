@@ -92,3 +92,4 @@ MIT — feel free to fork and improve.
 ## 📌 Author
 
 Made with ❤️ by [Mustafa Jamshidi](https://github.com/mustafajamis)
+![Screenshot 2025-06-30 at 12 11 20 PM](https://github.com/user-attachments/assets/e7b6510a-75b3-4a27-877c-6ff2b525a8ff)
